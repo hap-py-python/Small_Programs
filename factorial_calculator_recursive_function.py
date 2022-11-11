@@ -1,4 +1,4 @@
-# recursive function (function calls itself
+# recursive function (function calls itself)
 # factorial calculator
 
 def factorial(n):
